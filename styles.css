@@ -1,0 +1,57 @@
+.jumbotron{
+    width: 100%;
+    max-width: 100%;
+    font-size: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
+
+p .jumbotron {
+    text-align: justify;
+    text-transform: uppercase;
+}
+
+.logo-container{
+    padding: 25px;
+    color: goldenrod;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.lead{
+    text-align: center;
+    color: black;
+    margin-top: 25px;
+}
+
+.flex-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    font-family: 'Cormorant Unicase', serif;
+    align-items: flex-start;
+}
+
+.contact{
+    text-align: center;
+    color: goldenrod;
+    background-color: gray;
+    font-family: 'Cormorant Unicase', serif;
+    padding: 50px;
+}
+
+a .contact{
+    color: goldenrod;
+}
+
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+
+
+
+
